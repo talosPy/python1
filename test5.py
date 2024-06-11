@@ -1,4 +1,4 @@
-a = int(input('enter number '))
+a = int(input('enter number please'))
 b = int(input('enter another number here '))
 c = a + b
 d = a - b
